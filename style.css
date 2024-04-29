@@ -9,6 +9,7 @@ body {
    background-attachment: fixed;
    margin: 0;
    padding: 0;
+  
   }
   
   .birthdayCard {
@@ -48,7 +49,7 @@ body {
   
   .cardFront {
     position: relative;
-    background-color: #fff;
+    background-color: #ffffff;
     width: 250px;
     height:350px;
     overflow: hidden;
@@ -63,7 +64,7 @@ body {
     text-align: center;
     backface-visibility: hidden;
     font-size: 30px; 
-    color: rgb(46, 22, 143);
+    color: rgb(33, 6, 140);
   }
   .bday{
     color:#d14e11;
@@ -216,7 +217,9 @@ body {
   
   .cardInside {
     position: absolute;
-    background-color: #fff;
+    background: url("WhatsApp Image 2024-04-29 at 11.17.15_9ea699be.jpg");
+    background-size: cover;
+
     width: 250px;
     height:350px;
     z-index:-1;
@@ -233,18 +236,18 @@ body {
   
   .wishes {
     position: relative;
-    top:-115px;
+    top:110px;
     margin: 15px;
   }
   
   p {
     font-family: 'Brush Script MT', cursive;
     font-size: medium;
-    color: #211f20;
+    color: #ffffff;
   }
   
   .name {
-    color: #4c36f2;
+    color: #aaf1f7;
     margin-left:150px;
   }
   
