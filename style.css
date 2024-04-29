@@ -154,7 +154,7 @@ body {
     position: absolute;
     width: 130px;
     height: 5px;
-    background-color: #00bbf9;
+    background-color: #270a1f;
     left:60px;
     top:213px;
   }
@@ -164,22 +164,22 @@ body {
     overflow: hidden;
     width:100px;
     height: 50px;
-    background-color: #f15bb5;
+    background-color: #b05bf1;
     border-radius: 10px 10px 0 0;
     top:-50px;
     left:15px;
-    box-shadow: inset 0 -15px #f9c74f, inset 0 15px #432818;
+    box-shadow: inset 0 -15px #f9c74f, inset 0 15px #e30c0c;
   }
   
   .cake:before {
     content:"";
     position: absolute;
-    background-color: #432818;
+    background-color: #e30c0c;
     width:10px;
     height:20px;
     top:5px;
     border-radius:20px;
-    box-shadow: 10px 5px #f15bb5, 20px 0px #432818, 30px 2px #f15bb5, 40px 5px #432818, 50px 5px #f15bb5, 60px 0px #432818, 70px 5px #f15bb5, 80px 5px #432818, 90px 5px #f15bb5;
+    box-shadow: 10px 5px #b05bf1, 20px 0px #e30c0c, 30px 2px #b05bf1, 40px 5px #e30c0c, 50px 5px #b05bf1, 60px 0px #e30c0c, 70px 5px #b05bf1, 80px 5px#e30c0c, 90px 5px #b05bf1;
   }
   
   .plate:before {
@@ -217,7 +217,7 @@ body {
   
   .cardInside {
     position: absolute;
-    background: url("WhatsApp Image 2024-04-29 at 11.17.15_9ea699be.jpg");
+    background: url("WhatsApp Video 2024-04-29 at 20.31.22_1a795d7c (online-video-cutter.com).gif");
     background-size: cover;
 
     width: 250px;
